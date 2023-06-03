@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_basic_entity_management_basic_entity_management,basic_entity_management.basic_entity_management,model_basic_entity_management_basic_entity_management,base.group_user,1,1,1,1
+"access_basic_entity_management_basic_entity_management_public_user","basic_entity_management.basic_entity_management portal user access","model_basic_entity_management_basic_entity_management","base.group_portal","1","1","1","1"
+access_basic_entity_management_basic_entity_management_portal_user,Access to basic_entity_management_basic_entity_management,model_basic_entity_management_basic_entity_management,base.group_public,1,0,0,0
